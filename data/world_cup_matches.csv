@@ -93,3 +93,7 @@ match_id,date,team1,team2,team1_code,team2_code,team1_score,team2_score
 92,06/07/2026,Mexico,England,mx,gb,,
 93,06/07/2026,Portugal,Spain,pt,es,,
 94,07/07/2026,United States,Belgium,us,be,,
+95,07/07/2026,Argentina,Egypt,ar,eg,,
+96,08/07/2026,Switzerland,Colombia,ch,co,,
+97,10/07/2026,France,Morocco,fr,ma,,
+98,12/07/2026,Norway,England,no,gb,,
