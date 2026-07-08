@@ -84,16 +84,18 @@ match_id,date,team1,team2,team1_code,team2_code,team1_score,team2_score
 83,02/07/2026,Spain,Austria,es,at,3,0
 84,03/07/2026,Portugal,Croatia,pt,hr,2,1
 85,03/07/2026,Switzerland,Algeria,ch,dz,2,0
-86,03/07/2026,Australia,Egypt,au,eg,,
-87,04/07/2026,Argentina,Cape Verde,ar,cv,,
-88,04/07/2026,Colombia,Ghana,co,gh,,
-89,04/07/2026,Canada,Morocco,ca,ma,,
-90,05/07/2026,Paraguay,France,py,fr,,
-91,06/07/2026,Brazil,Norway,br,no,,
-92,06/07/2026,Mexico,England,mx,gb,,
-93,06/07/2026,Portugal,Spain,pt,es,,
-94,07/07/2026,United States,Belgium,us,be,,
-95,07/07/2026,Argentina,Egypt,ar,eg,,
-96,08/07/2026,Switzerland,Colombia,ch,co,,
+86,03/07/2026,Australia,Egypt,au,eg,2,4
+87,04/07/2026,Argentina,Cape Verde,ar,cv,3,2
+88,04/07/2026,Colombia,Ghana,co,gh,1,0
+89,04/07/2026,Canada,Morocco,ca,ma,0,3
+90,05/07/2026,Paraguay,France,py,fr,0,1
+91,06/07/2026,Brazil,Norway,br,no,1,2
+92,06/07/2026,Mexico,England,mx,gb,2,3
+93,06/07/2026,Portugal,Spain,pt,es,0,1
+94,07/07/2026,United States,Belgium,us,be,1,4
+95,07/07/2026,Argentina,Egypt,ar,eg,3,2
+96,08/07/2026,Switzerland,Colombia,ch,co,4,3
 97,10/07/2026,France,Morocco,fr,ma,,
-98,12/07/2026,Norway,England,no,gb,,
+98,10/07/2026,Spain,Belgium,es,be,,
+99,12/07/2026,Norway,England,no,gb,,
+100,12/07/2026,Argentina,Switzerland,ar,ch,,
